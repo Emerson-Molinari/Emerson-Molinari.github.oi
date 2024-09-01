@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 30px;
+  background-color: black;
+}
+
+body {
+  background-color: rgb(178, 177, 177);
+}/*# sourceMappingURL=style.css.map */

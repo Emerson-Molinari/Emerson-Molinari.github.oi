@@ -1,0 +1,15 @@
+$font: 30px;
+
+
+
+header{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: $font;
+    background-color: black;
+}
+
+body{
+    background-color: rgb(178, 177, 177);
+}
